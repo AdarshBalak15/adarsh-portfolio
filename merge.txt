@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hey i am in master branch
+this is original one
+
+
+
